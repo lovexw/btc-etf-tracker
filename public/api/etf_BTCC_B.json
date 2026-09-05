@@ -1,0 +1,18 @@
+{
+  "ticker": "BTCC.B",
+  "name": "Purpose Bitcoin ETF",
+  "issuer": "Purpose",
+  "country": "CA",
+  "exchange": "TSX",
+  "listing_date": "2021-02-18",
+  "date": "2026-09-05",
+  "updated_at": "2026-09-05T14:22:34.933147+00:00",
+  "aum_usd": null,
+  "holdings_btc": null,
+  "nav_price": null,
+  "market_price": null,
+  "premium_discount": null,
+  "daily_flow_usd": null,
+  "total_flow_usd": null,
+  "expense_ratio": null
+}

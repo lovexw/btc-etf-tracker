@@ -1,0 +1,18 @@
+{
+  "ticker": "BRRR",
+  "name": "Valkyrie Bitcoin Fund",
+  "issuer": "Valkyrie",
+  "country": "US",
+  "exchange": "NASDAQ",
+  "listing_date": "2024-01-11",
+  "date": "2026-09-05",
+  "updated_at": "2026-09-05T14:22:33.716568+00:00",
+  "aum_usd": null,
+  "holdings_btc": null,
+  "nav_price": null,
+  "market_price": null,
+  "premium_discount": null,
+  "daily_flow_usd": null,
+  "total_flow_usd": null,
+  "expense_ratio": null
+}

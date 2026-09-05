@@ -1,0 +1,16 @@
+{
+  "date": "2026-09-05",
+  "updated_at": "2026-09-05T14:22:31.001666+00:00",
+  "btc_price_usd": 79678,
+  "total_etfs": 17,
+  "total_aum_usd": 0,
+  "total_holdings_btc": 0,
+  "total_daily_flow_usd": 0,
+  "total_cumulative_flow_usd": 0,
+  "countries": [
+    "US",
+    "AU",
+    "CA",
+    "HK"
+  ]
+}
