@@ -6,13 +6,17 @@
   "exchange": "TSX",
   "listing_date": "2021-02-18",
   "date": "2026-09-05",
-  "updated_at": "2026-09-05T14:22:35.234799+00:00",
+  "updated_at": "2026-09-05T14:55:26.736481+00:00",
   "aum_usd": null,
   "holdings_btc": null,
   "nav_price": null,
-  "market_price": null,
+  "market_price": 13.98,
   "premium_discount": null,
-  "daily_flow_usd": null,
+  "daily_flow_usd": -702,
   "total_flow_usd": null,
-  "expense_ratio": null
+  "expense_ratio": 0.01,
+  "volume": 3610,
+  "daily_change_pct": -2.714,
+  "fifty_two_week_high": 22.45,
+  "fifty_two_week_low": 10.24
 }
