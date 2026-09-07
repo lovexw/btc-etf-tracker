@@ -13,6 +13,13 @@
       "total_aum_usd": 72405215000,
       "total_holdings_btc": 905937.1518000001,
       "total_daily_flow_usd": -35645472
+    },
+    {
+      "date": "2026-09-07",
+      "btc_price_usd": 80294,
+      "total_aum_usd": 72405215000,
+      "total_holdings_btc": 901751.2516,
+      "total_daily_flow_usd": -35890946
     }
   ]
 }

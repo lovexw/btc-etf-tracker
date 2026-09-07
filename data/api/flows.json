@@ -6,7 +6,7 @@
       "country": "US",
       "daily_flow_usd": -29124788,
       "total_flow_usd": null,
-      "date": "2026-09-06"
+      "date": "2026-09-07"
     },
     {
       "ticker": "FBTC",
@@ -14,7 +14,7 @@
       "country": "US",
       "daily_flow_usd": -3172042,
       "total_flow_usd": null,
-      "date": "2026-09-06"
+      "date": "2026-09-07"
     },
     {
       "ticker": "GBTC",
@@ -22,7 +22,7 @@
       "country": "US",
       "daily_flow_usd": -1650281,
       "total_flow_usd": null,
-      "date": "2026-09-06"
+      "date": "2026-09-07"
     },
     {
       "ticker": "BITB",
@@ -30,7 +30,7 @@
       "country": "US",
       "daily_flow_usd": -644320,
       "total_flow_usd": null,
-      "date": "2026-09-06"
+      "date": "2026-09-07"
     },
     {
       "ticker": "ARKB",
@@ -38,7 +38,7 @@
       "country": "US",
       "daily_flow_usd": -774769,
       "total_flow_usd": null,
-      "date": "2026-09-06"
+      "date": "2026-09-07"
     },
     {
       "ticker": "HODL",
@@ -46,7 +46,7 @@
       "country": "US",
       "daily_flow_usd": -289332,
       "total_flow_usd": null,
-      "date": "2026-09-06"
+      "date": "2026-09-07"
     },
     {
       "ticker": "BRRR",
@@ -54,7 +54,7 @@
       "country": "US",
       "daily_flow_usd": -10890,
       "total_flow_usd": null,
-      "date": "2026-09-06"
+      "date": "2026-09-07"
     },
     {
       "ticker": "EZBC",
@@ -62,7 +62,7 @@
       "country": "US",
       "daily_flow_usd": -151525,
       "total_flow_usd": null,
-      "date": "2026-09-06"
+      "date": "2026-09-07"
     },
     {
       "ticker": "BTCO",
@@ -70,7 +70,7 @@
       "country": "US",
       "daily_flow_usd": -67326,
       "total_flow_usd": null,
-      "date": "2026-09-06"
+      "date": "2026-09-07"
     },
     {
       "ticker": "DEFT",
@@ -78,7 +78,7 @@
       "country": "US",
       "daily_flow_usd": 5212,
       "total_flow_usd": null,
-      "date": "2026-09-06"
+      "date": "2026-09-07"
     },
     {
       "ticker": "BTCC.B",
@@ -86,7 +86,7 @@
       "country": "CA",
       "daily_flow_usd": -8602,
       "total_flow_usd": null,
-      "date": "2026-09-06"
+      "date": "2026-09-07"
     },
     {
       "ticker": "BTCC.U",
@@ -94,7 +94,7 @@
       "country": "CA",
       "daily_flow_usd": -702,
       "total_flow_usd": null,
-      "date": "2026-09-06"
+      "date": "2026-09-07"
     },
     {
       "ticker": "BITQ.U",
@@ -102,7 +102,7 @@
       "country": "CA",
       "daily_flow_usd": null,
       "total_flow_usd": null,
-      "date": "2026-09-06"
+      "date": "2026-09-07"
     },
     {
       "ticker": "IBTC",
@@ -110,32 +110,32 @@
       "country": "AU",
       "daily_flow_usd": null,
       "total_flow_usd": null,
-      "date": "2026-09-06"
+      "date": "2026-09-07"
     },
     {
       "ticker": "3042.HK",
       "name": "华夏比特币ETF",
       "country": "HK",
-      "daily_flow_usd": 221537,
+      "daily_flow_usd": -1411,
       "total_flow_usd": null,
-      "date": "2026-09-06"
+      "date": "2026-09-07"
     },
     {
       "ticker": "3439.HK",
       "name": "博时比特币ETF",
       "country": "HK",
-      "daily_flow_usd": 5194,
+      "daily_flow_usd": -170,
       "total_flow_usd": null,
-      "date": "2026-09-06"
+      "date": "2026-09-07"
     },
     {
       "ticker": "3179.HK",
       "name": "嘉实比特币ETF",
       "country": "HK",
-      "daily_flow_usd": 17162,
+      "daily_flow_usd": null,
       "total_flow_usd": null,
-      "date": "2026-09-06"
+      "date": "2026-09-07"
     }
   ],
-  "date": "2026-09-06"
+  "date": "2026-09-07"
 }
