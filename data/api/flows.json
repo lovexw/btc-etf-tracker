@@ -116,7 +116,7 @@
       "ticker": "3042.HK",
       "name": "华夏比特币ETF",
       "country": "HK",
-      "daily_flow_usd": -1411,
+      "daily_flow_usd": null,
       "total_flow_usd": null,
       "date": "2026-09-07"
     },
@@ -124,7 +124,7 @@
       "ticker": "3439.HK",
       "name": "博时比特币ETF",
       "country": "HK",
-      "daily_flow_usd": -170,
+      "daily_flow_usd": null,
       "total_flow_usd": null,
       "date": "2026-09-07"
     },
