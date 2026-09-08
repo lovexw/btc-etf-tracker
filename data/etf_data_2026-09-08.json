@@ -1,5 +1,21 @@
 {
-  "data": [
+  "summary": {
+    "date": "2026-09-08",
+    "updated_at": "2026-09-08T02:54:23.453527+00:00",
+    "btc_price_usd": 79024,
+    "total_etfs": 17,
+    "total_aum_usd": 72405215000,
+    "total_holdings_btc": 916243.3563,
+    "total_daily_flow_usd": -35889365,
+    "total_cumulative_flow_usd": 0,
+    "countries": [
+      "AU",
+      "CA",
+      "HK",
+      "US"
+    ]
+  },
+  "etfs": [
     {
       "ticker": "IBIT",
       "name": "iShares Bitcoin Trust ETF",
