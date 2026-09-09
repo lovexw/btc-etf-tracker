@@ -5,8 +5,8 @@
   "country": "HK",
   "exchange": "HKEX",
   "listing_date": "2024-04-30",
-  "date": "2026-09-08",
-  "updated_at": "2026-09-08T15:56:08.957496+00:00",
+  "date": "2026-09-09",
+  "updated_at": "2026-09-09T02:55:00.513789+00:00",
   "aum_usd": null,
   "holdings_btc": null,
   "nav_price": null,
@@ -16,7 +16,7 @@
   "total_flow_usd": null,
   "expense_ratio": 0.0099,
   "volume": 32600,
-  "daily_change_pct": -1.082,
+  "daily_change_pct": 0.0,
   "fifty_two_week_high": 15.27,
   "fifty_two_week_low": 7.17
 }

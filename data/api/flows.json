@@ -4,97 +4,97 @@
       "ticker": "IBIT",
       "name": "iShares Bitcoin Trust ETF",
       "country": "US",
-      "daily_flow_usd": -7133596,
+      "daily_flow_usd": -17726733,
       "total_flow_usd": null,
-      "date": "2026-09-08"
+      "date": "2026-09-09"
     },
     {
       "ticker": "FBTC",
       "name": "Fidelity Wise Origin Bitcoin Fund",
       "country": "US",
-      "daily_flow_usd": -1021019,
+      "daily_flow_usd": -2060251,
       "total_flow_usd": null,
-      "date": "2026-09-08"
+      "date": "2026-09-09"
     },
     {
       "ticker": "GBTC",
       "name": "Grayscale Bitcoin Trust ETF",
       "country": "US",
-      "daily_flow_usd": -587142,
+      "daily_flow_usd": -1229794,
       "total_flow_usd": null,
-      "date": "2026-09-08"
+      "date": "2026-09-09"
     },
     {
       "ticker": "BITB",
       "name": "Bitwise Bitcoin ETF",
       "country": "US",
-      "daily_flow_usd": -145315,
+      "daily_flow_usd": -344730,
       "total_flow_usd": null,
-      "date": "2026-09-08"
+      "date": "2026-09-09"
     },
     {
       "ticker": "ARKB",
       "name": "ARK 21Shares Bitcoin ETF",
       "country": "US",
-      "daily_flow_usd": -103025,
+      "daily_flow_usd": -283750,
       "total_flow_usd": null,
-      "date": "2026-09-08"
+      "date": "2026-09-09"
     },
     {
       "ticker": "HODL",
       "name": "VanEck Bitcoin Trust ETF",
       "country": "US",
-      "daily_flow_usd": -68676,
+      "daily_flow_usd": -194400,
       "total_flow_usd": null,
-      "date": "2026-09-08"
+      "date": "2026-09-09"
     },
     {
       "ticker": "BRRR",
       "name": "Valkyrie Bitcoin Fund",
       "country": "US",
-      "daily_flow_usd": -2825,
+      "daily_flow_usd": -7180,
       "total_flow_usd": null,
-      "date": "2026-09-08"
+      "date": "2026-09-09"
     },
     {
       "ticker": "EZBC",
       "name": "Franklin Bitcoin ETF",
       "country": "US",
-      "daily_flow_usd": -28610,
+      "daily_flow_usd": -79182,
       "total_flow_usd": null,
-      "date": "2026-09-08"
+      "date": "2026-09-09"
     },
     {
       "ticker": "BTCO",
       "name": "Invesco Galaxy Bitcoin ETF",
       "country": "US",
-      "daily_flow_usd": -39005,
+      "daily_flow_usd": -39621,
       "total_flow_usd": null,
-      "date": "2026-09-08"
+      "date": "2026-09-09"
     },
     {
       "ticker": "DEFT",
       "name": "Hashdex Bitcoin ETF",
       "country": "US",
-      "daily_flow_usd": -50881,
+      "daily_flow_usd": -92132,
       "total_flow_usd": null,
-      "date": "2026-09-08"
+      "date": "2026-09-09"
     },
     {
       "ticker": "BTCC.B",
       "name": "Purpose Bitcoin ETF (CAD)",
       "country": "CA",
-      "daily_flow_usd": -7025,
+      "daily_flow_usd": -11913,
       "total_flow_usd": null,
-      "date": "2026-09-08"
+      "date": "2026-09-09"
     },
     {
       "ticker": "BTCC.U",
       "name": "Purpose Bitcoin ETF (USD)",
       "country": "CA",
-      "daily_flow_usd": -1438,
+      "daily_flow_usd": -5343,
       "total_flow_usd": null,
-      "date": "2026-09-08"
+      "date": "2026-09-09"
     },
     {
       "ticker": "BITQ.U",
@@ -102,7 +102,7 @@
       "country": "CA",
       "daily_flow_usd": null,
       "total_flow_usd": null,
-      "date": "2026-09-08"
+      "date": "2026-09-09"
     },
     {
       "ticker": "IBTC",
@@ -110,7 +110,7 @@
       "country": "AU",
       "daily_flow_usd": null,
       "total_flow_usd": null,
-      "date": "2026-09-08"
+      "date": "2026-09-09"
     },
     {
       "ticker": "3042.HK",
@@ -118,7 +118,7 @@
       "country": "HK",
       "daily_flow_usd": null,
       "total_flow_usd": null,
-      "date": "2026-09-08"
+      "date": "2026-09-09"
     },
     {
       "ticker": "3439.HK",
@@ -126,7 +126,7 @@
       "country": "HK",
       "daily_flow_usd": null,
       "total_flow_usd": null,
-      "date": "2026-09-08"
+      "date": "2026-09-09"
     },
     {
       "ticker": "3179.HK",
@@ -134,8 +134,8 @@
       "country": "HK",
       "daily_flow_usd": null,
       "total_flow_usd": null,
-      "date": "2026-09-08"
+      "date": "2026-09-09"
     }
   ],
-  "date": "2026-09-08"
+  "date": "2026-09-09"
 }
