@@ -1,11 +1,11 @@
 {
-  "date": "2026-09-10",
-  "updated_at": "2026-09-10T15:46:33.261642+00:00",
-  "btc_price_usd": 77210,
+  "date": "2026-09-11",
+  "updated_at": "2026-09-11T02:49:52.013753+00:00",
+  "btc_price_usd": 76866,
   "total_etfs": 17,
-  "total_aum_usd": 69984373000,
-  "total_holdings_btc": 906415.9177,
-  "total_daily_flow_usd": -5992776,
+  "total_aum_usd": 69943127500,
+  "total_holdings_btc": 909935.8298999999,
+  "total_daily_flow_usd": -11595605,
   "total_cumulative_flow_usd": 0,
   "countries": [
     "AU",
