@@ -4,7 +4,7 @@
       "ticker": "IBIT",
       "name": "iShares Bitcoin Trust ETF",
       "country": "US",
-      "daily_flow_usd": -9426553,
+      "daily_flow_usd": 9908996,
       "total_flow_usd": null,
       "date": "2026-09-11"
     },
@@ -12,7 +12,7 @@
       "ticker": "FBTC",
       "name": "Fidelity Wise Origin Bitcoin Fund",
       "country": "US",
-      "daily_flow_usd": -1124260,
+      "daily_flow_usd": 861685,
       "total_flow_usd": null,
       "date": "2026-09-11"
     },
@@ -20,7 +20,7 @@
       "ticker": "GBTC",
       "name": "Grayscale Bitcoin Trust ETF",
       "country": "US",
-      "daily_flow_usd": -414141,
+      "daily_flow_usd": 421339,
       "total_flow_usd": null,
       "date": "2026-09-11"
     },
@@ -28,7 +28,7 @@
       "ticker": "BITB",
       "name": "Bitwise Bitcoin ETF",
       "country": "US",
-      "daily_flow_usd": -231192,
+      "daily_flow_usd": 238892,
       "total_flow_usd": null,
       "date": "2026-09-11"
     },
@@ -36,7 +36,7 @@
       "ticker": "ARKB",
       "name": "ARK 21Shares Bitcoin ETF",
       "country": "US",
-      "daily_flow_usd": -133902,
+      "daily_flow_usd": 245988,
       "total_flow_usd": null,
       "date": "2026-09-11"
     },
@@ -44,7 +44,7 @@
       "ticker": "HODL",
       "name": "VanEck Bitcoin Trust ETF",
       "country": "US",
-      "daily_flow_usd": -136017,
+      "daily_flow_usd": 81128,
       "total_flow_usd": null,
       "date": "2026-09-11"
     },
@@ -52,7 +52,7 @@
       "ticker": "BRRR",
       "name": "Valkyrie Bitcoin Fund",
       "country": "US",
-      "daily_flow_usd": -4160,
+      "daily_flow_usd": 1088,
       "total_flow_usd": null,
       "date": "2026-09-11"
     },
@@ -60,7 +60,7 @@
       "ticker": "EZBC",
       "name": "Franklin Bitcoin ETF",
       "country": "US",
-      "daily_flow_usd": -10944,
+      "daily_flow_usd": 20535,
       "total_flow_usd": null,
       "date": "2026-09-11"
     },
@@ -68,7 +68,7 @@
       "ticker": "BTCO",
       "name": "Invesco Galaxy Bitcoin ETF",
       "country": "US",
-      "daily_flow_usd": -9747,
+      "daily_flow_usd": 9935,
       "total_flow_usd": null,
       "date": "2026-09-11"
     },
@@ -76,7 +76,7 @@
       "ticker": "DEFT",
       "name": "Hashdex Bitcoin ETF",
       "country": "US",
-      "daily_flow_usd": -93158,
+      "daily_flow_usd": 8644,
       "total_flow_usd": null,
       "date": "2026-09-11"
     },
@@ -84,7 +84,7 @@
       "ticker": "BTCC.B",
       "name": "Purpose Bitcoin ETF (CAD)",
       "country": "CA",
-      "daily_flow_usd": -7335,
+      "daily_flow_usd": 6291,
       "total_flow_usd": null,
       "date": "2026-09-11"
     },
@@ -92,7 +92,7 @@
       "ticker": "BTCC.U",
       "name": "Purpose Bitcoin ETF (USD)",
       "country": "CA",
-      "daily_flow_usd": -4196,
+      "daily_flow_usd": 457,
       "total_flow_usd": null,
       "date": "2026-09-11"
     },
